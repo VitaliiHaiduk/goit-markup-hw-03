@@ -50,7 +50,9 @@ img {
   overflow: hidden;}
 
 /* header */
-
+.page-header {
+  border-bottom: 1px solid #ECECEC;
+}
 .header-container {
   display: flex;
   align-items: center;
